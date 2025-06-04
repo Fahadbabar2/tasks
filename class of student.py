@@ -10,7 +10,6 @@ class Student:
         print("Roll Number:", self.rollnumber)
         print("Marks:", self.marks)
 
-# Creating a student using variables
 student_name = "fahad"
 studentroll = 168
 student_marks = 88
